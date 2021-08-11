@@ -1,0 +1,5 @@
+C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/CMakeFiles/core.dir
+C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/CMakeFiles/executable.dir
+C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/CMakeFiles/INSTALL.dir
+C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/CMakeFiles/ZERO_CHECK.dir

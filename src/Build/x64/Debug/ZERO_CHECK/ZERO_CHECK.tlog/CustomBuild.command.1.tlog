@@ -1,0 +1,10 @@
+^C:\USERS\DAWID\DESKTOP\KOREPETYCJE\KOREPETYCJE\SRC\BUILD\CMAKEFILES\58526FB26F544E0372954F20ECEAFEB2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src -BC:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Dawid/Desktop/Korepetycje/Korepetycje/src/Build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
